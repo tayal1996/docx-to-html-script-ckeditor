@@ -1,3 +1,4 @@
+This project is tested with BrowserStack.
 # docx-to-html-script-ckeditor
 * To convert many docx files to html files via importWord api of ckeditor. 
 * Also the script fix the following issues on the converted html - 
